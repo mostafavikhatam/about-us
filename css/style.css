@@ -4,3 +4,61 @@
     box-sizing: border-box;
     
 }
+.container{
+    display:flex;
+    flex-direction: column;
+    width:100vh;
+    
+}
+.first-section{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 25px;
+   
+    
+}
+.container-aboutus{
+  
+   width: 100%;
+   margin-bottom: 40px;
+   
+  
+}
+.aboutus{
+    position: absolute;
+    margin-top: 0;
+    margin-left: 10px;
+    color: #fca80f;
+    font-size:0.8rem;
+}
+.container-first-title{
+   
+    width:30%;
+    
+    
+}
+.first-title{
+   font-size: 2.8rem;
+   color: #473288;
+    
+}
+.container-imge-first{
+
+position: relative;
+width: 50%;
+
+margin-top: 30px;
+
+
+}
+.ali{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+   
+}
+.image-first{
+    width: 100%;
+
+}
